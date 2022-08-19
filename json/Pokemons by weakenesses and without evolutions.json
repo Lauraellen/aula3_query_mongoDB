@@ -1,0 +1,123 @@
+[
+    {
+        "id": 114,
+        "num": "114",
+        "name": "Tangela",
+        "img": "http://www.serebii.net/pokemongo/pokemon/114.png",
+        "type": [
+            "Grass"
+        ],
+        "height": "0.99 m",
+        "weight": "35.0 kg",
+        "candy": "None",
+        "egg": "5 km",
+        "spawn_chance": 0.228,
+        "avg_spawns": 22.8,
+        "spawn_time": "23:13",
+        "multipliers": null,
+        "weaknesses": [
+            "Fire",
+            "Ice",
+            "Poison",
+            "Flying",
+            "Bug"
+        ]
+    },
+    {
+        "id": 123,
+        "num": "123",
+        "name": "Scyther",
+        "img": "http://www.serebii.net/pokemongo/pokemon/123.png",
+        "type": [
+            "Bug",
+            "Flying"
+        ],
+        "height": "1.50 m",
+        "weight": "56.0 kg",
+        "candy": "None",
+        "egg": "10 km",
+        "spawn_chance": 0.14,
+        "avg_spawns": 14,
+        "spawn_time": "05:43",
+        "multipliers": null,
+        "weaknesses": [
+            "Fire",
+            "Electric",
+            "Ice",
+            "Flying",
+            "Rock"
+        ]
+    },
+    {
+        "id": 124,
+        "num": "124",
+        "name": "Jynx",
+        "img": "http://www.serebii.net/pokemongo/pokemon/124.png",
+        "type": [
+            "Ice",
+            "Psychic"
+        ],
+        "height": "1.40 m",
+        "weight": "40.6 kg",
+        "candy": "None",
+        "egg": "10 km",
+        "spawn_chance": 0.35,
+        "avg_spawns": 35,
+        "spawn_time": "05:41",
+        "multipliers": null,
+        "weaknesses": [
+            "Fire",
+            "Bug",
+            "Rock",
+            "Ghost",
+            "Dark",
+            "Steel"
+        ]
+    },
+    {
+        "id": 127,
+        "num": "127",
+        "name": "Pinsir",
+        "img": "http://www.serebii.net/pokemongo/pokemon/127.png",
+        "type": [
+            "Bug"
+        ],
+        "height": "1.50 m",
+        "weight": "55.0 kg",
+        "candy": "None",
+        "egg": "10 km",
+        "spawn_chance": 0.99,
+        "avg_spawns": 99,
+        "spawn_time": "03:25",
+        "multipliers": null,
+        "weaknesses": [
+            "Fire",
+            "Flying",
+            "Rock"
+        ]
+    },
+    {
+        "id": 144,
+        "num": "144",
+        "name": "Articuno",
+        "img": "http://www.serebii.net/pokemongo/pokemon/144.png",
+        "type": [
+            "Ice",
+            "Flying"
+        ],
+        "height": "1.70 m",
+        "weight": "55.4 kg",
+        "candy": "None",
+        "egg": "Not in Eggs",
+        "spawn_chance": 0,
+        "avg_spawns": 0,
+        "spawn_time": "N/A",
+        "multipliers": null,
+        "weaknesses": [
+            "Fire",
+            "Electric",
+            "Rock",
+            "Steel"
+        ]
+    }
+]

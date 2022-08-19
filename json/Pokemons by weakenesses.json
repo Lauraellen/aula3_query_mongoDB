@@ -1,0 +1,252 @@
+[
+    {
+        "name": "Bulbasaur",
+        "spawn_chance": 0.69,
+        "weaknesses": [
+            "Fire",
+            "Ice",
+            "Flying",
+            "Psychic"
+        ]
+    },
+    {
+        "name": "Ivysaur",
+        "spawn_chance": 0.042,
+        "weaknesses": [
+            "Fire",
+            "Ice",
+            "Flying",
+            "Psychic"
+        ]
+    },
+    {
+        "name": "Venusaur",
+        "spawn_chance": 0.017,
+        "weaknesses": [
+            "Fire",
+            "Ice",
+            "Flying",
+            "Psychic"
+        ]
+    },
+    {
+        "name": "Caterpie",
+        "spawn_chance": 3.032,
+        "weaknesses": [
+            "Fire",
+            "Flying",
+            "Rock"
+        ]
+    },
+    {
+        "name": "Metapod",
+        "spawn_chance": 0.187,
+        "weaknesses": [
+            "Fire",
+            "Flying",
+            "Rock"
+        ]
+    },
+    {
+        "name": "Butterfree",
+        "spawn_chance": 0.022,
+        "weaknesses": [
+            "Fire",
+            "Electric",
+            "Ice",
+            "Flying",
+            "Rock"
+        ]
+    },
+    {
+        "name": "Weedle",
+        "spawn_chance": 7.12,
+        "weaknesses": [
+            "Fire",
+            "Flying",
+            "Psychic",
+            "Rock"
+        ]
+    },
+    {
+        "name": "Kakuna",
+        "spawn_chance": 0.44,
+        "weaknesses": [
+            "Fire",
+            "Flying",
+            "Psychic",
+            "Rock"
+        ]
+    },
+    {
+        "name": "Beedrill",
+        "spawn_chance": 0.051,
+        "weaknesses": [
+            "Fire",
+            "Flying",
+            "Psychic",
+            "Rock"
+        ]
+    },
+    {
+        "name": "Oddish",
+        "spawn_chance": 1.02,
+        "weaknesses": [
+            "Fire",
+            "Ice",
+            "Flying",
+            "Psychic"
+        ]
+    },
+    {
+        "name": "Gloom",
+        "spawn_chance": 0.064,
+        "weaknesses": [
+            "Fire",
+            "Ice",
+            "Flying",
+            "Psychic"
+        ]
+    },
+    {
+        "name": "Vileplume",
+        "spawn_chance": 0.0097,
+        "weaknesses": [
+            "Fire",
+            "Ice",
+            "Flying",
+            "Psychic"
+        ]
+    },
+    {
+        "name": "Paras",
+        "spawn_chance": 2.36,
+        "weaknesses": [
+            "Fire",
+            "Ice",
+            "Poison",
+            "Flying",
+            "Bug",
+            "Rock"
+        ]
+    },
+    {
+        "name": "Parasect",
+        "spawn_chance": 0.074,
+        "weaknesses": [
+            "Fire",
+            "Ice",
+            "Poison",
+            "Flying",
+            "Bug",
+            "Rock"
+        ]
+    },
+    {
+        "name": "Venonat",
+        "spawn_chance": 2.28,
+        "weaknesses": [
+            "Fire",
+            "Flying",
+            "Psychic",
+            "Rock"
+        ]
+    },
+    {
+        "name": "Venomoth",
+        "spawn_chance": 0.072,
+        "weaknesses": [
+            "Fire",
+            "Flying",
+            "Psychic",
+            "Rock"
+        ]
+    },
+    {
+        "name": "Bellsprout",
+        "spawn_chance": 1.15,
+        "weaknesses": [
+            "Fire",
+            "Ice",
+            "Flying",
+            "Psychic"
+        ]
+    },
+    {
+        "name": "Weepinbell",
+        "spawn_chance": 0.072,
+        "weaknesses": [
+            "Fire",
+            "Ice",
+            "Flying",
+            "Psychic"
+        ]
+    },
+    {
+        "name": "Victreebel",
+        "spawn_chance": 0.0059,
+        "weaknesses": [
+            "Fire",
+            "Ice",
+            "Flying",
+            "Psychic"
+        ]
+    },
+    {
+        "name": "Exeggcute",
+        "spawn_chance": 0.78,
+        "weaknesses": [
+            "Fire",
+            "Ice",
+            "Poison",
+            "Flying",
+            "Bug",
+            "Ghost",
+            "Dark"
+        ]
+    },
+    {
+        "name": "Exeggutor",
+        "spawn_chance": 0.014,
+        "weaknesses": [
+            "Fire",
+            "Ice",
+            "Poison",
+            "Flying",
+            "Bug",
+            "Ghost",
+            "Dark"
+        ]
+    },
+    {
+        "name": "Tangela",
+        "spawn_chance": 0.228,
+        "weaknesses": [
+            "Fire",
+            "Ice",
+            "Poison",
+            "Flying",
+            "Bug"
+        ]
+    },
+    {
+        "name": "Scyther",
+        "spawn_chance": 0.14,
+        "weaknesses": [
+            "Fire",
+            "Electric",
+            "Ice",
+            "Flying",
+            "Rock"
+        ]
+    },
+    {
+        "name": "Pinsir",
+        "spawn_chance": 0.99,
+        "weaknesses": [
+            "Fire",
+            "Flying",
+            "Rock"
+        ]
+    }
+]
